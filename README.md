@@ -1,4 +1,4 @@
-# Docker-HTTPS-Demo
+# Tomcat Docker HTTPS Demo
 
 ## Creating SSL Cert
 Certificate need to be created under ssl directory:
